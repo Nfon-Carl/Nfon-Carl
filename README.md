@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nfon-Carl
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React and React Native
+- 🌱 I’m currently learning React Native 
+- 💞️ I’m looking to collaborate on any Interesting React/React Native Projects.
 - 📫 How to reach me ..nfoncarl48@gmail.com
 
 <!---
